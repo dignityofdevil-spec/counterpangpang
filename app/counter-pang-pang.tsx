@@ -4,7 +4,7 @@ import React from 'react';
 
 import type React from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import { cn } from "../lib/utils"
+import { cn } from "./lib/utils"
 
 /* =========================================================================
    카운터 팡팡 — 초등학생 대상 캐주얼 사칙연산 퀴즈 모바일 웹 게임
